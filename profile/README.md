@@ -1,6 +1,6 @@
 
 
-<!--
+
 leading the gamehacking scene since 2077
 we provide the best solutions on the whole market for free. we are not talking shit and not copypasting articles with syscall initialization and auth analysis, we prefer doing real work instead.
 
@@ -18,4 +18,3 @@ nous fournissons gratuitement les meilleures solutions sur l'ensemble du marché
 
 Лидер в области взлома игр с 2077 года.
 Мы предлагаем лучшие решения на всем рынке бесплатно. Мы не несем чушь и не копируем статьи с инициализацией системных вызовов и анализом аутентификации, мы предпочитаем делать настоящую работу.
--->
